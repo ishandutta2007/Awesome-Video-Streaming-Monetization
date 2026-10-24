@@ -73,81 +73,81 @@ The following table evaluates the leading commercial SaaS products in the video 
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore the top open-source projects providing self-hosted streaming, ad-stitching, paywalls, and video players. All repositories are **ranked in descending order of GitHub star counts**, with direct star badges linking to each repository's stargazers community.
+Explore the top open-source projects providing self-hosted streaming, ad-stitching, paywalls, and video players. All repositories are **ranked in descending order of GitHub Stars_Counts**, with direct Stars_Badges linking to each repository's stargazers community.
 
-### 1. [PeerTube](https://github.com/Chocobozzz/PeerTube) [![GitHub stars](https://img.shields.io/github/stars/Chocobozzz/PeerTube?style=social&color=white)](https://github.com/Chocobozzz/PeerTube/stargazers)
+### 1. [PeerTube](https://github.com/Chocobozzz/PeerTube) [![GitHub_Stars](https://img.shields.io/github/stars/Chocobozzz/PeerTube?style=social&color=white)](https://github.com/Chocobozzz/PeerTube/stargazers)
 - **Primary Focus:** Decentralized, federated video streaming platform powered by ActivityPub and WebTorrent/HLS P2P.
 - **Monetization Mechanics:** Built-in support for creator tips and donations (PayPal, Liberapay, Tipeee), Web Monetization API / Coil integration for streaming micropayments, and third-party monetization plugins for subscription-gated video nodes.
 - **License:** AGPL-3.0.
 - **Best For:** Content platforms and organizations wanting autonomous video hosting that eliminates central server bandwidth costs through peer-to-peer distribution.
 
-### 2. [Owncast](https://github.com/owncast/owncast) [![GitHub stars](https://img.shields.io/github/stars/owncast/owncast?style=social&color=white)](https://github.com/owncast/owncast/stargazers)
+### 2. [Owncast](https://github.com/owncast/owncast) [![GitHub_Stars](https://img.shields.io/github/stars/owncast/owncast?style=social&color=white)](https://github.com/owncast/owncast/stargazers)
 - **Primary Focus:** Standalone, self-hosted live video and interactive web chat server.
 - **Monetization Mechanics:** Native creator monetization features baked into the chat interface: integrated tipping triggers, outbound donation cards (Buy Me a Coffee, Patreon, Liberapay, PayPal), and customizable channel support actions without platform cuts.
 - **License:** MIT.
 - **Best For:** Streamers and live broadcasters seeking complete ownership over their audience, data, chat community, and financial contributions.
 
-### 3. [Restreamer](https://github.com/datarhei/restreamer) [![GitHub stars](https://img.shields.io/github/stars/datarhei/restreamer?style=social&color=white)](https://github.com/datarhei/restreamer/stargazers)
+### 3. [Restreamer](https://github.com/datarhei/restreamer) [![GitHub_Stars](https://img.shields.io/github/stars/datarhei/restreamer?style=social&color=white)](https://github.com/datarhei/restreamer/stargazers)
 - **Primary Focus:** Full-featured live video streaming suite with an intuitive web GUI for HLS, RTMP, and SRT ingestion and delivery.
 - **Monetization Mechanics:** Broadcast restreaming to monetized third-party platforms (YouTube, Twitch, Kick) simultaneously; customizable graphic overlays for sponsors, promotional call-to-action cards, and iframe embed gating for paid paywall landing pages.
 - **License:** GPL-3.0.
 - **Best For:** Broadcasters and event organizers requiring a zero-maintenance self-hosted restreaming hub and player embed solution.
 
-### 4. [Ant Media Server](https://github.com/ant-media/Ant-Media-Server) [![GitHub stars](https://img.shields.io/github/stars/ant-media/Ant-Media-Server?style=social&color=white)](https://github.com/ant-media/Ant-Media-Server/stargazers)
+### 4. [Ant Media Server](https://github.com/ant-media/Ant-Media-Server) [![GitHub_Stars](https://img.shields.io/github/stars/ant-media/Ant-Media-Server?style=social&color=white)](https://github.com/ant-media/Ant-Media-Server/stargazers)
 - **Primary Focus:** Ultra-low latency streaming engine with WebRTC (~0.5s latency), SRT, RTMP, HLS, CMAF, and adaptive bitrate transcoding.
 - **Monetization Mechanics:** Webhook-driven pay-per-view access authorization, tokenized stream security to prevent unauthorized viewer hotlinking, and single-source simulcasting to monetized social destinations.
 - **License:** Apache 2.0 (Community Edition).
 - **Best For:** Real-time interactive broadcasting, virtual auctions, live education, and developers needing a dependable, upgradeable live engine.
 
-### 5. [OvenMediaEngine](https://github.com/OvenMediaLabs/OvenMediaEngine) [![GitHub stars](https://img.shields.io/github/stars/OvenMediaLabs/OvenMediaEngine?style=social&color=white)](https://github.com/OvenMediaLabs/OvenMediaEngine/stargazers)
+### 5. [OvenMediaEngine](https://github.com/OvenMediaLabs/OvenMediaEngine) [![GitHub_Stars](https://img.shields.io/github/stars/OvenMediaLabs/OvenMediaEngine?style=social&color=white)](https://github.com/OvenMediaLabs/OvenMediaEngine/stargazers)
 - **Primary Focus:** Sub-second ultra-low latency streaming server delivering WebRTC and Low-Latency HLS (LL-HLS).
 - **Monetization Mechanics:** Purpose-built for time-sensitive, highly monetizable interactive streaming: live shopping / e-commerce checkout synchronization, micro-betting overlays, live esports pay-per-view, and real-time bidder engagement.
 - **License:** GPL-2.0.
 - **Best For:** High-concurrency platforms where sub-second latency directly determines transaction conversion rates and paywall retention.
 
-### 6. [AVideo](https://github.com/WWBN/AVideo) [![GitHub stars](https://img.shields.io/github/stars/WWBN/AVideo?style=social&color=white)](https://github.com/WWBN/AVideo/stargazers)
+### 6. [AVideo](https://github.com/WWBN/AVideo) [![GitHub_Stars](https://img.shields.io/github/stars/WWBN/AVideo?style=social&color=white)](https://github.com/WWBN/AVideo/stargazers)
 - **Primary Focus:** Comprehensive open-source audio/video sharing and live streaming CMS (self-hosted YouTube/Netflix alternative).
 - **Monetization Mechanics:** Fully developed native monetization ecosystem: Pay-Per-View video sales, recurring membership subscriptions (SVOD), video ad insertion using VAST/VMAP protocols, internal user wallets, and creator payout splits.
 - **License:** GPL-3.0.
 - **Best For:** Creators and digital media enterprises wanting an out-of-the-box self-hosted video portal with native payment and ad monetization capabilities.
 
-### 7. [OpenPlayerJS](https://github.com/openplayerjs/openplayerjs) [![GitHub stars](https://img.shields.io/github/stars/openplayerjs/openplayerjs?style=social&color=white)](https://github.com/openplayerjs/openplayerjs/stargazers)
+### 7. [OpenPlayerJS](https://github.com/openplayerjs/openplayerjs) [![GitHub_Stars](https://img.shields.io/github/stars/openplayerjs/openplayerjs?style=social&color=white)](https://github.com/openplayerjs/openplayerjs/stargazers)
 - **Primary Focus:** Modular, zero-dependency, lightweight HTML5 video and audio player with first-class ad monetization plugins.
 - **Monetization Mechanics:** Native VAST/VMAP/VPAID and non-linear companion ad plugin using open-source parsing libraries instead of the heavy Google IMA SDK, eliminating client-side tracker blocking and geographic restrictions.
 - **License:** MIT.
 - **Best For:** Front-end engineers who want complete control over player UI, fast load times, and independent video ad revenue collection.
 
-### 8. [Livepeer](https://github.com/livepeer/go-livepeer) [![GitHub stars](https://img.shields.io/github/stars/livepeer/go-livepeer?style=social&color=white)](https://github.com/livepeer/go-livepeer/stargazers)
+### 8. [Livepeer](https://github.com/livepeer/go-livepeer) [![GitHub_Stars](https://img.shields.io/github/stars/livepeer/go-livepeer?style=social&color=white)](https://github.com/livepeer/go-livepeer/stargazers)
 - **Primary Focus:** Decentralized live and on-demand video transcoding network orchestrated by smart contracts.
 - **Monetization Mechanics:** Dramatically reduces video delivery infrastructure costs (by up to 80%) through open marketplace economics, enabling developers to build token-gated paywalls, web3 micropayments, and decentralized video apps.
 - **License:** MIT.
 - **Best For:** Video application founders seeking radically lower video transcoding costs and decentralized media protocol primitives.
 
-### 9. [videojs-contrib-ads](https://github.com/videojs/videojs-contrib-ads) [![GitHub stars](https://img.shields.io/github/stars/videojs/videojs-contrib-ads?style=social&color=white)](https://github.com/videojs/videojs-contrib-ads/stargazers)
+### 9. [videojs-contrib-ads](https://github.com/videojs/videojs-contrib-ads) [![GitHub_Stars](https://img.shields.io/github/stars/videojs/videojs-contrib-ads?style=social&color=white)](https://github.com/videojs/videojs-contrib-ads/stargazers)
 - **Primary Focus:** The foundational ad framework and state machine for Video.js, the web's most prevalent video player.
 - **Monetization Mechanics:** Standardizes ad request lifecycles, preroll/midroll/postroll cue points, ad timeout handling, and content-to-ad stream switching for any ad provider (Google IMA, FreeWheel, SpotX, SpringServe).
 - **License:** Apache 2.0.
 - **Best For:** Publishers and developers integrating ad insertion mechanisms into existing Video.js player implementations.
 
-### 10. [JW OTT Webapp](https://github.com/jwplayer/ott-web-app) [![GitHub stars](https://img.shields.io/github/stars/jwplayer/ott-web-app?style=social&color=white)](https://github.com/jwplayer/ott-web-app/stargazers)
+### 10. [JW OTT Webapp](https://github.com/jwplayer/ott-web-app) [![GitHub_Stars](https://img.shields.io/github/stars/jwplayer/ott-web-app?style=social&color=white)](https://github.com/jwplayer/ott-web-app/stargazers)
 - **Primary Focus:** Open-source reference OTT web application designed for multi-device video delivery.
 - **Monetization Mechanics:** Pre-configured workflows for ad-supported (AVOD) and subscription-based (SVOD) revenue models, user registration and login gating, Electronic Program Guides (EPG), and live stream access controls.
 - **License:** Apache 2.0.
 - **Best For:** Broadcasters and video publishers on JW Player looking for a production-ready, customizable frontend without building from scratch.
 
-### 11. [PPV Stream (Rust)](https://github.com/kukuhtw/ppv_stream_rust) [![GitHub stars](https://img.shields.io/github/stars/kukuhtw/ppv_stream_rust?style=social&color=white)](https://github.com/kukuhtw/ppv_stream_rust/stargazers)
+### 11. [PPV Stream (Rust)](https://github.com/kukuhtw/ppv_stream_rust) [![GitHub_Stars](https://img.shields.io/github/stars/kukuhtw/ppv_stream_rust?style=social&color=white)](https://github.com/kukuhtw/ppv_stream_rust/stargazers)
 - **Primary Focus:** High-performance, secure pay-per-view video streaming engine built with Rust and HLS.
 - **Monetization Mechanics:** Direct pay-per-view pricing set by creators, multi-currency support, internal wallet for deposit/withdrawal management, automated affiliate and referral commission distribution, and dynamic anti-piracy video watermarks.
 - **License:** MIT.
 - **Best For:** Independent creators, coaches, and exclusive broadcasters who want self-hosted pay-per-view infrastructure without platform revenue share.
 
-### 12. [OCF (Open Container Format)](https://github.com/arcnmx/ocf-rs) [![GitHub stars](https://img.shields.io/github/stars/arcnmx/ocf-rs?style=social&color=white)](https://github.com/arcnmx/ocf-rs/stargazers)
+### 12. [OCF (Open Container Format)](https://github.com/arcnmx/ocf-rs) [![GitHub_Stars](https://img.shields.io/github/stars/arcnmx/ocf-rs?style=social&color=white)](https://github.com/arcnmx/ocf-rs/stargazers)
 - **Primary Focus:** Cryptographically secure container specification for gated media and sensitive content distribution.
 - **Monetization Mechanics:** Clean-room implementation using AES-256-GCM authenticated encryption, Argon2id key derivation, and Ed25519 digital signatures to enforce access policies (expiration dates, machine binding, play limits) on premium downloadable video files.
 - **License:** Apache 2.0 / MIT.
 - **Best For:** Platforms needing client-side policy-gated video protection to deter casual sharing and piracy of premium instructional or entertainment assets.
 
-### 13. [Eyevinn Ritcher](https://github.com/JoeldelPilar/ritcher) [![GitHub stars](https://img.shields.io/github/stars/JoeldelPilar/ritcher?style=social&color=white)](https://github.com/JoeldelPilar/ritcher/stargazers)
+### 13. [Eyevinn Ritcher](https://github.com/JoeldelPilar/ritcher) [![GitHub_Stars](https://img.shields.io/github/stars/JoeldelPilar/ritcher?style=social&color=white)](https://github.com/JoeldelPilar/ritcher/stargazers)
 - **Primary Focus:** High-throughput Rust-based ad stitcher engineered specifically for HLS and DASH streams.
 - **Monetization Mechanics:** Supports Server-Side Ad Insertion (SSAI) with on-the-fly segment substitution and Server-Guided Ad Insertion (SGAI) via HLS Interstitial `EXT-X-DATERANGE` tags. Integrates seamlessly with VAST-compliant ad decision servers and Valkey/Redis session stores.
 - **License:** MIT.
@@ -208,7 +208,7 @@ Contributions from developers, broadcasters, ad tech specialists, and streaming 
 2. 🌿 **Create a descriptive branch** (`git checkout -b feature/add-new-streaming-tool`).
 3. 📝 **Add or update your entry** in `README.md` following the established table or badge conventions:
    - For SaaS tools: include verified company valuation/scale, specific starting tier price, and concrete trial limits.
-   - For Open-Source tools: include the linked social star badge `[![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`.
+   - For Open-Source tools: include the linked social Stars_Badge `[![GitHub_Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`.
 4. 🚀 **Submit a Pull Request** with a succinct explanation of why the tool is valuable for video monetization.
 
 ---
