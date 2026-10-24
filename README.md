@@ -1,6 +1,6 @@
 # Awesome-Video-Streaming-Monetization
 
-# Top Visual Effects & Motion Graphics Ecosystem
+## Top Visual Effects & Motion Graphics Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Node-Based Compositing, Procedural Motion Design & Self-Hosted VFX Pipelines*  
