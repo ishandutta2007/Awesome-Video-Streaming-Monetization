@@ -2,7 +2,7 @@
 
 # Awesome-Video-Streaming-Monetization
 
-# Top Video Streaming & Monetization Tools Ecosystem
+## Top Video Streaming & Monetization Tools Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Self-Hosted Ad Insertion, Pay-Per-View Gating & Open OTT Frontends*  
